@@ -1,0 +1,4 @@
+- Run performance benchmarking tests
+- Generate and publish code coverage reports
+- Notify team via Slack after deployment
+- Rollback on failure detection
